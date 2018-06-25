@@ -5,7 +5,7 @@ class Hash
       if key == value
         arr.push(key)
       end
-      arr
     end
+    arr
   end
 end
