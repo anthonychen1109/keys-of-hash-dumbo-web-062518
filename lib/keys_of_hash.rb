@@ -6,6 +6,5 @@ class Hash
         arr.push(key)
       end
     end
-    arr
   end
 end
