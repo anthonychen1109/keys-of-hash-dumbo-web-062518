@@ -1,6 +1,6 @@
 class Hash
+  arr = []
   def keys_of_hash(*arguments)
-    arr = []
     arguments.each do |key, value|
       if key == value
         arr.push(key)
